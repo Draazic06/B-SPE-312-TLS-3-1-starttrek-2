@@ -1,0 +1,12 @@
+Environnement virtuel
+.venv/
+venv/
+
+Caches
+pycache/
+*.pyc
+.ipynb_checkpoints/
+.DS_Store
+
+Checkpoints intermédiaires (seuls les modèles finaux de models/ sont rendus)
+checkpoints/

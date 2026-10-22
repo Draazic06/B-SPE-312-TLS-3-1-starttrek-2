@@ -1,0 +1,26 @@
+{
+  "0": {
+    "test_mean": 244.42477615115328,
+    "test_std": 50.74186929106285,
+    "above_200": 90,
+    "solved_episode": 493,
+    "solved_steps": 259764,
+    "train_time": 66.29265403747559
+  },
+  "1": {
+    "test_mean": 246.31872926532378,
+    "test_std": 26.07051775762206,
+    "above_200": 98,
+    "solved_episode": 585,
+    "solved_steps": 332210,
+    "train_time": 72.4717378616333
+  },
+  "2": {
+    "test_mean": 250.46969556323677,
+    "test_std": 49.76893209758668,
+    "above_200": 95,
+    "solved_episode": 707,
+    "solved_steps": 360958,
+    "train_time": 67.66203594207764
+  }
+}
